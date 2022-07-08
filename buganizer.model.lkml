@@ -5,3 +5,6 @@ include: "/buganizer.view.lkml"                # include all views in the views/
 
 # include: "/explores/bla.explore.lkml"
 explore: buganizer {}
+
+
+include: "/p2p.dashboard.lookml"
